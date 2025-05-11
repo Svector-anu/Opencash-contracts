@@ -1,0 +1,82 @@
+# Foundry specific
+cache/
+out/
+forge-cache/
+
+# Broadcast logs - maintain specific patterns
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+
+# Docs
+docs/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Coverage & Testing
+lcov.info
+coverage/
+coverage.json
+
+# Hardhat (in case you use it alongside Foundry)
+artifacts/
+typechain/
+typechain-types/
+
+# Libraries & Dependencies
+node_modules/
+lib/
+libs/
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build artifacts
+dist/
+build/
+deployments/localhost/
+deployments/hardhat/
+
+# Generated ABIs
+abis/
+exported/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local blockchain data
+.openzeppelin/unknown-*.json
+.openzeppelin/dev-*.json
+tenderly.yaml
+
+# Gas reports
+gas-report.txt
+
+# Custom development notes
+NOTES.md
+TODO.md
+
+# Slither output
+slither-results.json
+slither-results.txt
+
+# Debug files
+debug/
+
+# Deployment scripts output
+deployed-addresses.json
+deployment-summary.txt
