@@ -21,3 +21,5 @@ contract DeploySimpleGateway is Script {
 }
 
 //Contract address : 0x6479973F4C38025918d9b252AA03964be874b6D5
+
+//contrzct on mainnet  0x998f0be3FA78a085374e49EcBF8E37703a4575A4
