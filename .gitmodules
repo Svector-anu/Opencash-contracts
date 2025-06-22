@@ -7,3 +7,21 @@
 [submodule "simple-gateway-foundry/lib/openzeppelin-contracts"]
 	path = simple-gateway-foundry/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "Aboki-contracct/lib/forge-std"]
+	path = Aboki-contracct/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "aboki-contract/lib/openzeppelin-contracts"]
+	path = aboki-contract/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "Aboki-mainnet/lib/forge-std"]
+	path = Aboki-mainnet/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Aboki-mainnet/lib/openzeppelin-contracts"]
+	path = Aboki-mainnet/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "aboki-v2-deployment/lib/openzeppelin-contracts"]
+	path = aboki-v2-deployment/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "abokiv2-fresh/lib/forge-std"]
+	path = abokiv2-fresh/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
